@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebse
  alt="aws" width="40" height="40"/>
         </a>
          
-   <a href="https://www.gnu.org/software/bash/" target="_blank" 
+   <a align="left" href="https://www.gnu.org/software/bash/" target="_blank" 
 rel="noreferrer">
           <img 
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
