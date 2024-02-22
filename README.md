@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebse
          
    <a href="https://www.gnu.org/software/bash/" target="_blank" 
 rel="noreferrer">
-          <img style="float:left"
+          <img style="float:left, display:inline"
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
 alt="bash" width="40" height="40"/>
         </a>
