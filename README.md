@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Des</h1>
 <h3 align="center">An aspiring Software Engineer based in York, UK</h3>
 
-- 🔭 I’m currently working on [News Summary](news-summary)
+- 🔭 I’m currently working on [a news summary app](news-summary)
 
 - 🌱 I’m currently learning **Node**
 
-- 👨‍💻 All of my projects are available at [www.d.d](www.d.d)
+- 👨‍💻 All of my projects are available at [tbc]()
 
 - 📫 How to reach me **ssdfd**
 
