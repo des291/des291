@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hi 👋, I'm Des</h1>
 <h3 align="center">An aspiring Software Engineer based in York, UK</h3>
 
@@ -35,9 +33,10 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p
- align="left">
-        <a href="https://aws.amazon.com" target="_blank"><img 
+<p align="left">
+ <a href="https://aws.amazon.com" target="blank" 
+rel="noreferrer">
+          <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
  alt="aws" width="40" height="40"/>
         </a>
@@ -136,4 +135,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=des291&show_i
 align="center" 
 src="https://github-readme-stats.vercel.app/api?username=des291&show_icons=true&locale=en"
  alt="des291" /></p>
-
