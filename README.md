@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [a news summary app](news-summary)
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [tbc]()
 
