@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [tbc]()
 
-<!-- - 📫 How to reach me **ssdfd** -->
+<!-- - 📫 How to reach me **ssdfd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="des" height="30" width="40" />
  </a>
 </p>
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 <p float="left">
  
